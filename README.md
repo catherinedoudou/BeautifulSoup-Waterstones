@@ -1,7 +1,7 @@
 # BeautifulSoup-Waterstones
 
 ### Data Extrcation
--Tool: *BeautifulSoup
+-Tool: *BeautifulSoup*
 
 
 ### Files
