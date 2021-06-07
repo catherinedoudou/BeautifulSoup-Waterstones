@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vscode/settings.json
+2. Data Cleaning/books.db
+2. Data Cleaning/cleaning.ipynb
+Data/books_basic.pkl
+Data/books_extra_info.csv
+Data/books_reviews.pkl
+Data/to_database.ipynb
